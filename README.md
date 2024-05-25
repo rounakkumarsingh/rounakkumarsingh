@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms, MERN Stack, Machine Learning
 - 👯 I’m looking to team up for Competetive Programming
 - 🤔 I’m looking for help with Algorithms and Competitive Programming
 - 💬 Ask me about anything (we might find a lot in common 😉)
